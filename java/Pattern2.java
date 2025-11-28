@@ -1,4 +1,4 @@
-import java.nio.file.SecureDirectoryStream;
+
 import java.util.Scanner;
 public class Pattern2 {
 
