@@ -7,11 +7,13 @@ import java.util.Scanner;
 public class IntOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        double num = sc.nextDouble();
 
-        if (sc.hasNextLine()) {  //important to note
-            int num = sc.nextInt();
+
+        if (num ==(int)num) {  //important to note
+            
             System.out.println("Is Integer");
-            System.out.println(num);
+           
         } else {
             System.out.println("Not Integer");
         }
