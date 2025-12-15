@@ -11,7 +11,7 @@ public class Pattern9 {
 
             // for space
             for(int j=1; j<=n-i;j++){
-             System.out.print(' ');
+             System.out.print(" ");
             }
             
             //for stars
